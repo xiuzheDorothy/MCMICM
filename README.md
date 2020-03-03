@@ -1,2 +1,2 @@
-# MCMICM 复现计划
-这是我的第一个项目，包含近几年数模美赛（也有可能包含国赛）的单人复现记录
+# The experiment of MCM/ICM
+This is my first project, which includes the single experiment record for the MCMICM (and possibly CUMCM)in recent years
